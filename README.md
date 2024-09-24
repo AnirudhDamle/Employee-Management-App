@@ -1,0 +1,1 @@
+In this project, I developed an Employee Management App using Django, emphasizing URL, view, and template management, efficient database handling with models, user input through forms, and CRUD operations within a customized admin panel.
